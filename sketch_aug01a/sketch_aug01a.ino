@@ -12,6 +12,7 @@ void setup() {
   
   
   pinMode ( sag_on , INPUT);
+  pinMode ( sag_arka , OUTPUT);
 
 }
 
